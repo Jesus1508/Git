@@ -1,4 +1,5 @@
-# Sala de Chat
+# Sala de Chat y Proyecto practica Angular
+
 Este chat es de prueba, desarrollado para test.
 
 ![](docs/chat.png)
